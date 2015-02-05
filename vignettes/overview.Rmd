@@ -1,0 +1,14 @@
+---
+title: "Overview of compMethod"
+author: "Vignette Author"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+To be edited.
+
+Link to Shiny app can be added here. 
